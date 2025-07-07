@@ -80,8 +80,7 @@ Each module:
 
 ## Documentation
 
-- 📘 [WhitePaper (EN)](./docs/WP_EN.pdf)  
-- 📙 [Manifest](./docs/Manifest.pdf)
+- 📙 [Manifesto](./docs/manifesto.pdf)
 
 _More languages and developer docs coming soon._
 
