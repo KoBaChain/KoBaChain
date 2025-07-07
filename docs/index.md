@@ -1,6 +1,6 @@
 # KoBa Chain Documentation Hub
 
-Welcome to the official documentation and manifesto archive of **KoBaChain** — a quantum-resistant, AI-native, hypermodular Web3 infrastructure.
+Welcome to the official documentation and manifesto archive of **KoBa Chain** — a quantum-resistant, AI-native, hypermodular Web3 infrastructure.
 
 ---
 
