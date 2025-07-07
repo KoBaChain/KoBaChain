@@ -1,12 +1,12 @@
 # KoBa Chain Architecture
 
-> **KoBa Chain isn’t evolution — it’s a revolution.**  
+> **KoBa Chain not an evolution — it’s a revolution.**  
 > We’re not predicting the future. We’re building it.  
 > *And if you’re reading this — you’re already part of it.*
 
 ---
 
-## Glossary
+## Glossary 
 
 | Term | Description |
 |------|-------------|
